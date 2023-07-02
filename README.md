@@ -1,10 +1,10 @@
 # OBJECT CLASSIFIER
 
-### OVERVIEW
+### **OVERVIEW**
 
 This project focuses on the implementation of an object classifier with various functionalities. The project can be divided into several parts to ensure the successful development and evaluation of the classifier.
 
-### FEATURES
+### **FEATURES**
 
 **Part 1.0 - Dataset Construction:**
 

@@ -34,8 +34,8 @@ The classifier.ipynb file contained in this repository has been trained and fine
 
 Regarding the dataset, the training, validation, and test sets were assigned a ratio of 70-15-15 images, respectively. Increasing the quantity and variety of data certainly contributes to obtaining a better classifier for both the fine-tuned custom cifar100 model and pre-trainned pytorch architectures.
 
-#### **AUTHOR**
+### **AUTHOR**
 
 - Giovane Hashinokuti Iwamoto - Computer Science student at UFMS - Brazil - MS
 
-I am always open to receiving constructive criticism and suggestions for improvement in our developed code. I believe that feedback is an essential part of the learning and growth process, and I am eager to learn from others and make my code the best it can be. Whether it's a minor tweak or a major overhaul, I am willing to consider all suggestions and implement the changes that will benefit my code and its users.
+I am always open to receiving constructive criticism and suggestions for improvement in my developed code. I believe that feedback is an essential part of the learning and growth process, and I am eager to learn from others and make my code the best it can be. Whether it's a minor tweak or a major overhaul, I am willing to consider all suggestions and implement the changes that will benefit my code and its users.

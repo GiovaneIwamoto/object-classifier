@@ -30,7 +30,7 @@ By following these outlined steps and evaluating the classifier based on the spe
 
 ### **CONCLUSION**
 
-The classifier.ipynb file contained in this repository has been trained and fine-tuned based on five classes. The number of epochs for the learning described in the code is relatively low, resulting in insufficient data accuracy. It is recommended to dedicate more processing power and time to achieve a more efficient object classifier. This way, both the loss functions and the confusion matrix will be more indicative of the training process.
+The `classifier.ipynb` file contained in this repository has been trained and fine-tuned based on five classes. The number of epochs for the learning described in the code is relatively low, resulting in insufficient data accuracy. It is recommended to dedicate more processing power and time to achieve a more efficient object classifier. This way, both the loss functions and the confusion matrix will be more indicative of the training process.
 
 Regarding the dataset, the training, validation, and test sets were assigned a ratio of 70-15-15 images, respectively. Increasing the quantity and variety of data certainly contributes to obtaining a better classifier for both the fine-tuned custom cifar100 model and pre-trainned pytorch architectures.
 

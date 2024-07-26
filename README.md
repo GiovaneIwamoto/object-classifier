@@ -17,13 +17,9 @@ The initial step involves constructing a dataset consisting of at least five dif
 > [!IMPORTANT]
 > The dataset should be shared through a Google Drive link with the aim of connecting easily with Google Colab.
 
----
-
 **Part 2.0 - Data Split:**
 
 Once the dataset is constructed, it needs to be divided into three separate sets: `training`, `validation`, and `test` sets. While the minimum requirements for the number of classes and examples are specified, there is flexibility to adjust the quantity for individual objects if they present labeling difficulties. This adjustment aims to enhance the overall performance of the classifier.
-
----
 
 **Part 2.1 - Custom Architecture Training:**
 
